@@ -1,35 +1,29 @@
 ﻿#bgPhoto
 {
-	
+	position: fixed;
 }
 
-#homeBar
-{
-	background-color: #2020ff;
-	
-}
-
-#newBlock
+#header
 {
 	
 }
 
-#banner
+#logo
 {
 	
 }
 
-#merchAd
+#links
 {
 	
 }
 
-#randoDiv
+#feed
 {
 	
 }
 
-.homeIcon
+#listen
 {
-	background-color: #909060;
+	
 }
