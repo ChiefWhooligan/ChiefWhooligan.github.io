@@ -1,29 +1,21 @@
-﻿#bgPhoto
+﻿#bg
 {
-	position: fixed;
+    background-color: red;
+    /*background-image: "img/bg.jpg";*/
+    background-repeat: repeat;
+}
+
+#banner
+{
+    
 }
 
 #header
 {
-	position: fixed;
+    display: inline-block;
 }
 
-#logo
+.portal
 {
-	
-}
-
-#links
-{
-	
-}
-
-#feed
-{
-	
-}
-
-#listen
-{
-	
+    display: none;
 }
